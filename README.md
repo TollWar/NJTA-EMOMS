@@ -1,2 +1,2 @@
 # NJTA-EMOMS
-Electronic Maintanence Management System for the NJTA
+Electronic Maintanence On-Line Management System for the NJTA
